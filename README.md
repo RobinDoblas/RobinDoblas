@@ -68,4 +68,6 @@
     - [Salon Appointment Scheduler Database](https://github.com/RobinDoblas/PSQL-Salon-Appointment-Scheduler-Database)
     - [World Cup Database](https://github.com/RobinDoblas/PSQL-World-Cup-Database-)
     - [Universe Database](https://github.com/RobinDoblas/PSQL-Universe-Database)
+  - FreeCodeCamp NPM:
+    - [Prime Number Checker Module](https://github.com/RobinDoblas/NPM-Prime-Number-Checker-Module.git)
   - [Retos de programación](https://github.com/RobinDoblas/retos_de_programacion)

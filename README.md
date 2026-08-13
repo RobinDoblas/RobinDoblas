@@ -62,13 +62,15 @@
   - [Mantén pulsado o mueres](https://github.com/RobinDoblas/Manten-pulsado-o-mueres)
 - 💻 Website: [Author website](https://github.com/RobinDoblas/author-website)
 - 📖 Learning: 
-  - FreeCodeCamp PSQL: 
-    - [Number Guessing Game](https://github.com/RobinDoblas/PSQL-Number-Guessing-Game)
-    - [Periodic Table Database](https://github.com/RobinDoblas/PSQL-Periodic-Table-Database)
-    - [Salon Appointment Scheduler Database](https://github.com/RobinDoblas/PSQL-Salon-Appointment-Scheduler-Database)
-    - [World Cup Database](https://github.com/RobinDoblas/PSQL-World-Cup-Database-)
-    - [Universe Database](https://github.com/RobinDoblas/PSQL-Universe-Database)
-  - FreeCodeCamp NPM:
-    - [Prime Number Checker Module](https://github.com/RobinDoblas/NPM-Prime-Number-Checker-Module.git)
-  - FreeCodeCamp REST API:
-    - [Timestamp Microservice](https://github.com/RobinDoblas/RESTAPI-Timestamp-Microservice.git)
+  - FreeCodeCamp:
+    - 🐘 PostgreSQL:
+      - [Number Guessing Game](https://github.com/RobinDoblas/PSQL-Number-Guessing-Game)
+      - [Periodic Table Database](https://github.com/RobinDoblas/PSQL-Periodic-Table-Database)
+      - [Salon Appointment Scheduler Database](https://github.com/RobinDoblas/PSQL-Salon-Appointment-Scheduler-Database)
+      - [World Cup Database](https://github.com/RobinDoblas/PSQL-World-Cup-Database-)
+      - [Universe Database](https://github.com/RobinDoblas/PSQL-Universe-Database)
+    - 📦 NPM / Node.js:
+      - [Prime Number Checker Module](https://github.com/RobinDoblas/NPM-Prime-Number-Checker-Module.git)
+    - 🌐 REST APIs / Express:
+      - [Timestamp Microservice](https://github.com/RobinDoblas/RESTAPI-Timestamp-Microservice.git)
+      - [Personal Profile App](https://github.com/RobinDoblas/EXPRESS-Personal-Profile-App.git)

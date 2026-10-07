@@ -17,6 +17,8 @@
 
 #### 🎓 Currently learning
 
+[Desarrollo Web FrontEnd con React - Fundación Adecco](https://fundacionadecco.org/formacion/cursos/desarrollo-web-frontend-con-react/)
+
 [Certified Full-Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer-v9/)
 #### 👻 About me 
 
